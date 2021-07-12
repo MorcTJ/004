@@ -1,0 +1,41 @@
+body{
+    background: black;
+    color: white;
+    text-align: center;
+}
+#f {
+    background: rgb(231, 155, 155);
+    text-align: center;
+    margin-top: 3%;
+    padding-top: 1%;padding-bottom: 1%;
+}
+#g {
+    background: rgb(221, 233, 155);
+    text-align: center;
+    margin-top: 3%;
+    padding-top: 1%;padding-bottom: 1%;
+}
+#h {
+    background: rgb(143, 219, 154);
+    text-align: center;
+    margin-top: 3%;
+    padding-top: 1%;padding-bottom: 1%;
+}
+#i {
+    background: rgb(112, 211, 211);
+    text-align: center;
+    margin-top: 3%;
+    padding-top: 1%;padding-bottom: 1%;
+}
+#j {
+    background: rgb(158, 145, 233);
+    text-align: center;
+    margin-top: 3%;
+    padding-top: 1%;padding-bottom: 1%;
+}
+#k {
+    background: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 42%;margin-right: 42%;
+}
